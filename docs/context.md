@@ -44,8 +44,6 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 Nosso projeto tem como público-alvo organizações não governamentais (ONGs), e a prefeitura, com o objetivo de facilitar o cadastro e  controle público dos moradores de rua. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
