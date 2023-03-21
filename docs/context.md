@@ -33,14 +33,14 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Esperamos que com o aplicativo as ONGs consigam Através do cadastramento dos moradores de rua, terem informações atualizadas sobre a população em situação de rua, permitindo assim a organização e direcionamento de doações de forma mais eficiente e assertiva e auxiliar a prefeitura no controle e planejamento de políticas públicas, O cadastro permitirá a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social.
+Esperamos que com o aplicativo as ONGs consigam através do cadastramento dos moradores de rua, terem informações atualizadas sobre a população em situação de rua, permitindo assim a organização e direcionamento de doações de forma mais eficiente e assertiva e auxiliar a prefeitura no controle e planejamento de políticas públicas, O cadastro permitirá a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Nosso projeto tem como público-alvo organizações não governamentais (ONGs), e a prefeitura, com o objetivo de facilitar o cadastro e  controle público dos moradores de rua. 
+Nosso projeto tem como público-alvo organizações não governamentais (ONGs), que irão fazer o cadastro dos moradores de rua, e a prefeitura, que poderá através da assistência social, efetuar o cadastro com o objetivo de facilitar o controle público dos moradores de rua. 
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
