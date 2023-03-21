@@ -33,14 +33,16 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Esperamos que com o aplicativo as ONGs consigam através do cadastramento dos moradores de rua, terem informações atualizadas sobre a população em situação de rua, permitindo assim a organização e direcionamento de doações de forma mais eficiente e assertiva e auxiliar a prefeitura no controle e planejamento de políticas públicas, O cadastro permitirá a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social.
+Com a implementação deste aplicativo, almejamos que as ONGs e a prefeitura, ao efetuarem o cadastramento dos moradores em situação de rua, possam obter informações atualizadas sobre esse grupo social. Isso permitirá a organização e direcionamento de doações de maneira mais eficaz e precisa, além de melhorar o controle e planejamento de políticas públicas.
+
+O cadastro proporcionará a elaboração de políticas públicas mais eficientes e personalizadas, visando atender às necessidades específicas dos moradores em situação de rua. Exemplos de ações incluem a criação de abrigos temporários, programas de reinserção social e profissional, e aprimoramento na rede de assistência social, tanto por parte das ONGs quanto da prefeitura. Dessa forma, esperamos promover um impacto positivo e duradouro na vida dessas pessoas, fortalecendo a colaboração entre entidades governamentais e não governamentais.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Nosso projeto tem como público-alvo organizações não governamentais (ONGs), que irão fazer o cadastro dos moradores de rua, e a prefeitura, que poderá através da assistência social, efetuar o cadastro com o objetivo de facilitar o controle público dos moradores de rua. 
+O projeto que estamos desenvolvendo é direcionado especificamente a organizações não governamentais (ONGs) e à prefeitura. As ONGs envolvidas terão a responsabilidade de cadastrar os moradores em situação de rua, enquanto a prefeitura, por meio de sua equipe de assistência social, também poderá realizar o cadastramento.  
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
