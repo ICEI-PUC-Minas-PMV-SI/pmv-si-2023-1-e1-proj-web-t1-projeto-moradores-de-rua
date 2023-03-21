@@ -33,9 +33,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Facilitar doações por meio de ONGs: Através do cadastramento dos moradores de rua, as ONGs terão informações atualizadas sobre a população em situação de rua, permitindo assim a organização e direcionamento de doações de forma mais eficiente e assertiva.
-
-Auxiliar a prefeitura no controle e planejamento de políticas públicas: O cadastro fornecerá dados valiosos para a prefeitura, permitindo a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social.
+Esperamos que com o aplicativo as ONGs consigam Através do cadastramento dos moradores de rua, terem informações atualizadas sobre a população em situação de rua, permitindo assim a organização e direcionamento de doações de forma mais eficiente e assertiva e auxiliar a prefeitura no controle e planejamento de políticas públicas, O cadastro permitirá a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
