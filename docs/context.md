@@ -28,9 +28,6 @@ Prover informações relevantes sobre ONGs em Belo Horizonte que auxiliam as pes
 Auxiliar a prefeitura no controle e planejamento de políticas públicas: O cadastro fornecerá dados valiosos para a prefeitura, permitindo a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social. 
 
 O projeto de cadastro de moradores de rua visa estabelecer parcerias com as ONGs e a prefeitura de Minas Gerais, com o intuito de unir esforços para melhorar a qualidade de vida dessa população vulnerável e contribuir para a construção de uma sociedade mais justa e igualitaria. 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
