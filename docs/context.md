@@ -23,11 +23,11 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-Teste
+Prover informações relevantes sobre ONGs em Belo Horizonte que auxiliam as pessoas em situação de rua e garantir que essa informação chegue de forma eficiente aos nossos possíveis usuários para facilitar as doações através do cadastro dos moradores em situação de rua, doadores e das ONGs disponíveis na região.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. teste
+Auxiliar a prefeitura no controle e planejamento de políticas públicas: O cadastro fornecerá dados valiosos para a prefeitura, permitindo a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O projeto de cadastro de moradores de rua visa estabelecer parcerias com as ONGs e a prefeitura de Minas Gerais, com o intuito de unir esforços para melhorar a qualidade de vida dessa população vulnerável e contribuir para a construção de uma sociedade mais justa e igualitaria. 
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
