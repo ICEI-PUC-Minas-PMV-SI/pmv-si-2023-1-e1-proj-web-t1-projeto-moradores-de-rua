@@ -1,12 +1,11 @@
-# Título do Projeto
+# CadSocial
+Aplicação para cadastro dos moradores de rua de MG.
 
-`CURSO: Sistemas de Informação`
+1º Período - Sistemas de Informação
+Disciplina: Projeto - Aplicações Web
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas Virtual)
 
-`DISCIPLINA: Projeto - Aplicações Web`
-
-`SEMESTRE: 1º`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto CadSocial tem como objetivo, cadastrar os moradores de rua de MG, para que possam obter informações atualizadas sobre esse grupo social.
 
 ## Integrantes
 
