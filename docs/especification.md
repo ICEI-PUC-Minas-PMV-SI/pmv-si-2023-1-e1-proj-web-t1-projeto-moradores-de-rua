@@ -46,15 +46,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA |  |
-|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA |  |
-|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA |  |
-|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA |  |
-|RF-005| Disponibilizar o login dos usuários | ALTA |  |
-|RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | |
-|RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | |
-|RF-008| Disponibilizar relatório de moradores de rua crianças por localicades  | ALTA | |
-|RF-009| Disponibilizar relatório de moradores de rua geral por cidade  | ALTA | |
+|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA |  
+|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA |  
+|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA |  
+|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA |  
+|RF-005| Disponibilizar o login dos usuários | ALTA |  
+|RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | 
+|RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | 
+|RF-008| Disponibilizar relatório de moradores de rua crianças por localicades  | ALTA | 
+|RF-009| Disponibilizar relatório de moradores de rua geral por cidade  | ALTA | 
 
 ### Requisitos não Funcionais
 
