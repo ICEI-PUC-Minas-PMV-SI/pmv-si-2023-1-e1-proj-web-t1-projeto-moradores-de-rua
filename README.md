@@ -1,9 +1,12 @@
 # CadSocial
 Aplicação para cadastro dos moradores de rua de MG.
 
-1º Período - Sistemas de Informação
-Disciplina: Projeto - Aplicações Web
-Pontifícia Universidade Católica de Minas Gerais (PUC Minas Virtual)
+1º Período - Sistemas de Informação  
+
+Disciplina: Projeto - Aplicações Web  
+
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas Virtual)  
+
 
 O projeto CadSocial tem como objetivo, cadastrar os moradores de rua de MG, para que possam obter informações atualizadas sobre esse grupo social.
 
