@@ -46,31 +46,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA |  |
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA | |
-
+|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA |  |
+|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA |  |
+|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA |  |
+|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA |  |
+|RF-005| Disponibilizar o login dos usuários | ALTA |  |
+|RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | |
+|RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | |
+|RF-008| Disponibilizar relatório de moradores de rua crianças por localicades  | ALTA | |
+|RF-009| Disponibilizar relatório de moradores de rua geral por cidade  | ALTA | |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Aplicação deve ser desenvolvida em HTML, CSS e JavaScript |  ALTA | 
+|RNF-003| Aplicação deve apresentar um layout simples e de fácil utilização |  MÉDIA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -78,12 +74,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| A abrangência do projeto limita-se a Minas Gerais |
+|02| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail |
+|03| Cada morador de rua poderá ser cadastrado somente uma vez, não podendo ter duplicidade no cadastro |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
