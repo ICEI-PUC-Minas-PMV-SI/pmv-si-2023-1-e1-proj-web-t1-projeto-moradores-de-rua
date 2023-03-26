@@ -44,7 +44,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | Responsável |
+|ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| ----|
 |RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA |  
 |RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA |  
