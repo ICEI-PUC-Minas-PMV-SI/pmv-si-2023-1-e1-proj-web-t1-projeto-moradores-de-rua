@@ -34,19 +34,10 @@ O projeto de cadastro de moradores de rua visa estabelecer parcerias com as ONGs
 
 ## Justificativa
 
-Com a implementação deste aplicativo, almejamos que as ONGs e a prefeitura, ao efetuarem o cadastramento dos moradores em situação de rua, possam obter informações atualizadas sobre esse grupo social. Isso permitirá a organização e direcionamento de doações de maneira mais eficaz e precisa, além de melhorar o controle e planejamento de políticas públicas.
+Com a implementação deste aplicativo, almejamos que as ONGs e a prefeitura, ao efetuarem o cadastramento dos moradores em situação de rua, possam obter informações atualizadas sobre esse grupo social. Isso permitirá a organização o direcionamento de doações de maneira mais eficaz e precisa, além de melhorar o controle e planejamento de políticas públicas.
 
 O cadastro proporcionará a elaboração de políticas públicas mais eficientes e personalizadas, visando atender às necessidades específicas dos moradores em situação de rua. Exemplos de ações incluem a criação de abrigos temporários, programas de reinserção social e profissional, e aprimoramento na rede de assistência social, tanto por parte das ONGs quanto da prefeitura. Dessa forma, esperamos promover um impacto positivo e duradouro na vida dessas pessoas, fortalecendo a colaboração entre entidades governamentais e não governamentais.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 O projeto que estamos desenvolvendo é direcionado especificamente a organizações não governamentais (ONGs) e à prefeitura. As ONGs envolvidas terão a responsabilidade de cadastrar os moradores em situação de rua, enquanto a prefeitura, por meio de sua equipe de assistência social, também poderá realizar o cadastramento.  
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
