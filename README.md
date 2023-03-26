@@ -13,7 +13,7 @@ O projeto CadSocial tem como objetivo, cadastrar os moradores de rua de MG, para
 ## Integrantes
 
 * Stephanie Gadoni Sila 
-* Nome completo do aluno 2
+* Luiza Gabriella Vieira Rezende
 * Vinicius Santos de Oliveira
 * Nome completo do aluno 4
 * Nome completo do aluno 5
