@@ -44,17 +44,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | 
+|ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA |  
-|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA |  
-|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA |  
-|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA |  
-|RF-005| Disponibilizar o login dos usuários | ALTA |  
-|RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | 
-|RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | 
-|RF-008| Disponibilizar relatório de moradores de rua crianças por localicades  | ALTA | 
-|RF-009| Disponibilizar relatório de moradores de rua geral por cidade  | ALTA | 
+|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-005| Disponibilizar o login dos usuários | ALTA | Assistente social e ONGs  |
+|RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | Assistente social e ONGs |
+|RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | Assistente social e ONGs |
+|RF-008| Disponibilizar relatório de moradores de rua crianças por localicades  | ALTA | Assistente social e ONGs |
+|RF-009| Disponibilizar relatório de moradores de rua geral por cidade  | ALTA | Assistente social e ONGs |
 
 ### Requisitos não Funcionais
 
@@ -77,4 +77,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| A abrangência do projeto limita-se a Minas Gerais |
 |02| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail |
 |03| Cada morador de rua poderá ser cadastrado somente uma vez, não podendo ter duplicidade no cadastro |
+
 
