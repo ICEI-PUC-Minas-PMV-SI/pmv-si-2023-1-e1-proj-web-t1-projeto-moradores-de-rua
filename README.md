@@ -1,5 +1,5 @@
 # CadSocial
-Aplicação para cadastro dos moradores de rua de MG.
+Aplicação para cadastro de pessoas em situação de rua em MG.
 
 1º Período - Sistemas de Informação  
 
