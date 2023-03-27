@@ -12,9 +12,9 @@ Ela gostaria de fazer mais por essas pessoas em situação de vulnerabilidade qu
 Seu obstáculo é a falta de informações, como não saber como e onde se cadastrar para ser tornar uma voluntária dessas ONGs.
 
 
-Marcelo tem 38 anos é casado, formado em administração e é gerente em uma empresa de tamanho médio que atua na área de telecomunicações.
-Ele é observador, focado, vai a academia frequentemente e faz caminhadas 3 vezes por semana e tem uma agenda um pouco apertada.
-Ele quer ajudar essas pessoas em situação de rua, então lembra que tem muitas roupas e cobertores em casa que não usa mais e gostaria de doar também alguns alimentos para uma ONG que ajuda as pessoas em situação de vulnerabilidade.
+Marcelo tem 38 anos é casado, tem 2 filhos, formado em administração e é gerente em uma empresa de tamanho médio que atua na área de telecomunicações.
+Ele é muito observador, focado e está sempre tentando ajudar as pessoas em sua volta, vai a academia frequentemente e faz caminhadas 3 vezes por semana e tem uma agenda um pouco apertada.
+Ele gostaria de ajudar mais os moradores em situação de rua que encontra pelo caminho quando está indo praticar seus exercícios, ele sempre da algumas moedas mas no fundo ele quer fazer algo mais por essas pessoas, então lembra que tem muitas roupas e cobertores em casa que não usa mais e gostaria de doar também alguns alimentos para uma ONG que ajuda as pessoas em situação de vulnerabilidade.
 A dificuldade que o Marcelo encontra para realizar essas doações é não saber se tem alguma ONG próxima a sua casa pois ele não tem muito tempo livre em sua agenda, outra dificuldade é saber quais alimentos podem ou não ser doados para ajudar essas pessoas.
 
 
@@ -35,6 +35,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|-------------------------------------------------|----------------------------------------|
 |EU COMO: Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
 |Eu Como: Marcelo, pessoa preocupada com o bem-estar dos outros|  QUERO/PRECISO: encontrar uma ONG próxima à minha casa para doar roupas, cobertores e alimentos para ajudar os moradores de rua que encontro durante minhas atividades físicas. Para isso, EU PRECISO de uma plataforma online que me permita localizar ONGs próximas e fornecer informações sobre o que posso doar, incluindo alimentos seguros e necessidades específicas para as pessoas em situação de vulnerabilidade. | O MOTIVO/VALOR por trás desse desejo é a vontade de fazer a diferença na vida dessas pessoas e ajudar a tornar o mundo um lugar melhor para todos. Ao encontrar uma maneira fácil e conveniente de doar, posso aumentar meu impacto positivo na comunidade e sentir-me mais conectado aos outros, reforçando valores como solidariedade e empatia.|
+|EU COMO: EU COMO Aridelson, EMPREENDEDOR|QUERO/PRECISO encontrar uma pessoa em situação de vulnerabilidade com as habilidades e conhecimentos necessários para ser meu ajudante de instalação de segurança residencial, PARA aumentar a produtividade da minha empresa e, ao mesmo tempo, oferecer uma oportunidade para alguém que precisa.A FUNCIONALIDADE necessária é encontrar ONGs que possam ajudá-lo a identificar pessoas em situação de vulnerabilidade com as habilidades e conhecimentos necessários para a vaga que ele está oferecendo.|O MOTIVO/VALOR é contribuir para a redução da vulnerabilidade social e para a melhoria da segurança residencial das pessoas.|
+|EU COMO: Marilia, gerente do departamento da prefeitura que tem como objetivo ajudar pessoas em situação de vulnerabilidade.|QUERO/PRECISO ter um controle melhor das informações sobre ONGs, moradores de rua e doadores PARA melhorar as tomadas de decisões do departamento e implementar novas políticas e projetos que auxiliem essas pessoas na cidade.| O motivo e o valor por trás desse desejo é proporcionar um atendimento mais efetivo e eficiente às pessoas em situação de vulnerabilidade e contribuir para a melhoria da qualidade de vida delas na cidade.|
+
 
 ## Requisitos
 
