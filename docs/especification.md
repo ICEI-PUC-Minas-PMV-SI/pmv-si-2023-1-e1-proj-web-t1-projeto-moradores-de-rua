@@ -7,7 +7,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 Ana Flavia tem 21 anos é solteira, está no 4° perído de enfermagem na Estácio e mora com os pais.
-Ela gosta de passear no parque da cidade e também de ajudar as pessoas em sua volta, seu dia não é muito cheio sempre tem um tempinho livre.
+Ela é muito simpática gosta de passear no parque da cidade e gosta muito de ajudar as pessoas em sua volta, seu dia não é muito cheio sempre tem um tempinho livre.
 Ela gostaria de fazer mais por essas pessoas em situação de vulnerabilidade que ela sempre encontra a caminho do parque, ela quer fazer algo mais por essas pessoas então decide que além de doações ela quer se voluntariar em uma ONG mais proxima possível a sua casa.
 Seu obstáculo é a falta de informações, como não saber como e onde se cadastrar para ser tornar uma voluntária dessas ONGs.
 
@@ -33,9 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
-|Morador de rua      | Preciso encontrar um abrigo temporário          | Para passar a noite. Eu gostaria de usar um aplicativo que pudesse me mostrar as opções de abrigos disponíveis na cidade, bem como as regras e horários de funcionamento, para que eu possa tomar uma decisão informada sobre onde me abrigar                    |
-|Civil               | Quero ajudar moradores de rua                   | Eu gostaria de usar um aplicativo que pudesse me mostrar as organizações locais que trabalham com moradores de rua e os tipos de ajuda que eles precisam, para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |
-|Funcionário de uma organização que trabalha com moradores de rua |preciso coletar informações sobre os indivíduos que ajudamos | Eu gostaria de usar um aplicativo que me permita registrar e acompanhar os atendimentos aos moradores de rua, bem como armazenar informações importantes sobre eles, como histórico médico, preferências alimentares e informações de contato de familiares ou amigos.|
+|EU COMO:Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
 
 
 ## Requisitos
