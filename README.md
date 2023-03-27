@@ -8,7 +8,7 @@ Disciplina: Projeto - Aplicações Web
 Pontifícia Universidade Católica de Minas Gerais (PUC Minas Virtual)  
 
 
-O projeto CadSocial tem como objetivo, cadastrar os moradores de rua de MG, para que possam obter informações atualizadas sobre esse grupo social.
+O projeto CadSocial tem como objetivo, o cadastro de pessoas em situação de rua em MG, para que possam obter informações atualizadas sobre esse grupo social.
 
 ## Integrantes
 
