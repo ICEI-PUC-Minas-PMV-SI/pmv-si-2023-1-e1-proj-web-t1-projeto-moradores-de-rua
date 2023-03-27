@@ -26,9 +26,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
-|MORADOR DE RUA      | Preciso encontrar um abrigo temporário          | Para passar a noite. Eu gostaria de usar um aplicativo que pudesse me mostrar as opções de abrigos disponíveis na cidade, bem como as regras e horários de funcionamento, para que eu possa tomar uma decisão informada sobre onde me abrigar                    |
+|Morador de rua      | Preciso encontrar um abrigo temporário          | Para passar a noite. Eu gostaria de usar um aplicativo que pudesse me mostrar as opções de abrigos disponíveis na cidade, bem como as regras e horários de funcionamento, para que eu possa tomar uma decisão informada sobre onde me abrigar                    |
 |Civil               | Quero ajudar moradores de rua                   | Eu gostaria de usar um aplicativo que pudesse me mostrar as organizações locais que trabalham com moradores de rua e os tipos de ajuda que eles precisam, para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |
-|Eu sou um funcionário de uma organização que trabalha com moradores de rua |preciso coletar informações sobre os indivíduos que ajudamos | Eu gostaria de usar um aplicativo que me permita registrar e acompanhar os atendimentos aos moradores de rua, bem como armazenar informações importantes sobre eles, como histórico médico, preferências alimentares e informações de contato de familiares ou amigos.|
+|Funcionário de uma organização que trabalha com moradores de rua |preciso coletar informações sobre os indivíduos que ajudamos | Eu gostaria de usar um aplicativo que me permita registrar e acompanhar os atendimentos aos moradores de rua, bem como armazenar informações importantes sobre eles, como histórico médico, preferências alimentares e informações de contato de familiares ou amigos.|
 
 
 ## Requisitos
