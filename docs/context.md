@@ -1,13 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O problema dos moradores de rua é um desafio que enfrentamos como sociedade há décadas. A questão envolve não apenas a falta de moradia adequada, mas também outros fatores como saúde, segurança e dignidade humana. A situação se agrava em grandes centros urbanos, onde a exclusão social é ainda mais evidente. A falta de políticas públicas efetivas e a concentração de renda em camadas sociais mais favorecidas agravam o problema, fazendo com que a população em situação de rua cresça ano após ano.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Os moradores de rua vivem em condições precárias, expostos a doenças, violência e fome. Muitos são vítimas de preconceito e discriminação, o que dificulta ainda mais a busca por uma vida digna. Diante desse cenário, é urgente a busca por soluções que ataquem o problema de forma integrada e sustentável, envolvendo não apenas políticas públicas, mas também ações de empresas e da sociedade civil.
 
-
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+É importante ressaltar que o problema dos moradores de rua não é exclusivo do Brasil. Em muitos países, a questão é tratada como uma preocupação social e econômica, visto que os custos para a sociedade são altos em termos de saúde pública, segurança e impacto econômico. Portanto, é necessário buscar soluções que considerem a dimensão internacional do problema e que estejam alinhadas com iniciativas globais para a promoção dos direitos humanos e da justiça social.
 
 ## Problema
 
