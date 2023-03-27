@@ -18,7 +18,6 @@ Ele gostaria de ajudar mais os moradores em situação de rua que encontra pelo 
 A dificuldade que o Marcelo encontra para realizar essas doações é não saber se tem alguma ONG próxima a sua casa pois ele não tem muito tempo livre em sua agenda, outra dificuldade é saber quais alimentos podem ou não ser doados para ajudar essas pessoas.
 
 
-
 Aridelson tem 32 anos é casado, tem 2 filhas e tem formação tecnica em eletrôenicos, ele está iniciando sua própria empresa que fornece segurança residencial realizando instalações de câmeras e alarmes.
 Ele quer começar a aumentar seu fluxo de instalações já que trabalha sozinho e para isso precisa de um ajudante para agilizar suas instalações, então ele resolve dar essa oportunidade para uma pessoa em situação de vulnerabilidade.
 O obstaculo do Aridelson é encontrar ONGs onde essas pessoas que estão em situação de vulnerabilidade estejam capacitadas para a vaga que ele está oferecendo.
