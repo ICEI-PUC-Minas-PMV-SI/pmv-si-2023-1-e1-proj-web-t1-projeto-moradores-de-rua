@@ -33,7 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
-|EU COMO: Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
+|EU COMO: Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade /n FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
 
 
 ## Requisitos
