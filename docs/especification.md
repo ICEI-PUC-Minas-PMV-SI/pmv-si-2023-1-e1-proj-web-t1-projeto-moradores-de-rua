@@ -26,18 +26,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
-|MORADOR DE RUA      | Preciso encontrar um abrigo temporário          | Para passar a noite                    |
-|Civil               | Quero ajudar moradores de rua                   | Para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |preciso coletar informações sobre os indivíduos que ajudamos |
-|Eu sou um funcionário de uma organização que trabalha com moradores de rua |
+|MORADOR DE RUA      | Preciso encontrar um abrigo temporário          | Para passar a noite. Eu gostaria de usar um aplicativo que pudesse me mostrar as opções de abrigos disponíveis na cidade, bem como as regras e horários de funcionamento, para que eu possa tomar uma decisão informada sobre onde me abrigar                    |
+|Civil               | Quero ajudar moradores de rua                   | Eu gostaria de usar um aplicativo que pudesse me mostrar as organizações locais que trabalham com moradores de rua e os tipos de ajuda que eles precisam, para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |
+|Eu sou um funcionário de uma organização que trabalha com moradores de rua |preciso coletar informações sobre os indivíduos que ajudamos | Eu gostaria de usar um aplicativo que me permita registrar e acompanhar os atendimentos aos moradores de rua, bem como armazenar informações importantes sobre eles, como histórico médico, preferências alimentares e informações de contato de familiares ou amigos.|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
