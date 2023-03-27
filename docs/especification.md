@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Ana Flavia tem 21 anos é solteira, está no 4° perído de enfermagem na Estácio e mora com os pais.
 Ela é muito simpática gosta de passear no parque da cidade e gosta muito de ajudar as pessoas em sua volta, seu dia não é muito cheio sempre tem um tempinho livre.
-Ela gostaria de ajudar de uma forma mais abrangente essas pessoas em situação de vulnerabilidade que ela sempre encontra a caminho do parque, ela quer fazer algo mais por essas pessoas então decide que além de doações ela quer se voluntariar em uma ONG mais proxima possível a sua casa.
+Ela gostaria de fazer mais por essas pessoas em situação de vulnerabilidade que ela sempre encontra a caminho do parque, ela quer fazer algo mais por essas pessoas então decide que além de doações ela quer se voluntariar em uma ONG mais proxima possível a sua casa.
 Seu obstáculo é a falta de informações, como não saber como e onde se cadastrar para ser tornar uma voluntária dessas ONGs.
 
 
@@ -33,8 +33,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
-|EU COMO: Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade     FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
-
+|EU COMO: Ana Flavia uma estudante universitária de 21 anos que gosta de ajudar as pessoas em sua volta|QUERO/PRECISO: me tornar voluntária em uma ONG que atue com pessoas em situação de vulnerabilidade FUNCIONALIDADE PARA: obter informações sobre como e onde me cadastrar para ser voluntária|MOTIVO/VALOR: quero fazer mais por essas pessoas em situação de vulnerabilidade que encontro a caminho do parque e contribuir com a minha energia e habilidades para ajudar na transformação da vida dessas pessoas.|
+|Eu Como: Marcelo, pessoa preocupada com o bem-estar dos outros|  QUERO/PRECISO: encontrar uma ONG próxima à minha casa para doar roupas, cobertores e alimentos para ajudar os moradores de rua que encontro durante minhas atividades físicas. Para isso, EU PRECISO de uma plataforma online que me permita localizar ONGs próximas e fornecer informações sobre o que posso doar, incluindo alimentos seguros e necessidades específicas para as pessoas em situação de vulnerabilidade. | O MOTIVO/VALOR por trás desse desejo é a vontade de fazer a diferença na vida dessas pessoas e ajudar a tornar o mundo um lugar melhor para todos. Ao encontrar uma maneira fácil e conveniente de doar, posso aumentar meu impacto positivo na comunidade e sentir-me mais conectado aos outros, reforçando valores como solidariedade e empatia.|
 
 ## Requisitos
 
