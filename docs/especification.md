@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Ana Flavia tem 21 anos é solteira, está no 4° perído de enfermagem na Estácio e mora com os pais.
 Ela é muito simpática gosta de passear no parque da cidade e gosta muito de ajudar as pessoas em sua volta, seu dia não é muito cheio sempre tem um tempinho livre.
-Ela gostaria de fazer mais por essas pessoas em situação de vulnerabilidade que ela sempre encontra a caminho do parque, ela quer fazer algo mais por essas pessoas então decide que além de doações ela quer se voluntariar em uma ONG mais proxima possível a sua casa.
+Ela gostaria de ajudar de uma forma mais abrangente essas pessoas em situação de vulnerabilidade que ela sempre encontra a caminho do parque, ela quer fazer algo mais por essas pessoas então decide que além de doações ela quer se voluntariar em uma ONG mais proxima possível a sua casa.
 Seu obstáculo é a falta de informações, como não saber como e onde se cadastrar para ser tornar uma voluntária dessas ONGs.
 
 
