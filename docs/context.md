@@ -8,16 +8,9 @@ Os moradores de rua vivem em condições precárias, expostos a doenças, violê
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A população em situação de rua tem crescido cada vez mais em Belo Horizote, chegado a um aumeto de 192% nos ultimos 8 anos de acordo com os dados fornecidos pelo Censo Pop Rua da UFMG. De acordo com essa pesquisa também perceberam que o tempo de situação de rua dessas pessoas estão aumentando cada vez mais, antes essas pessoas permaneciam em situação de rua por 7 anos em média e agora está passando para 11 anos.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Alguns meios para ajudar essas pessoas em situação de vulnerabilidade a ter uma melhor condição de vida é realizando doações e se voluntariando para ajudar em ONGs da região e isso as vezes não ocorre por falta de informações. Para resolver isso propomos facilitar o acesso a essas iformações para que assim as pessoas saibam onde doar oque doar, onde e como se volutariar para que assim possamos potencializar os numeros de doações e aumetar o numero de voluntários e consequentemente ter mais moradores saindo das ruas e vivendo uma condição melhor de vida.
 
 ## Objetivos
 Prover informações relevantes sobre ONGs em Belo Horizonte que auxiliam as pessoas em situação de rua e garantir que essa informação chegue de forma eficiente aos nossos possíveis usuários para facilitar as doações através do cadastro dos moradores em situação de rua, doadores e das ONGs disponíveis na região.
