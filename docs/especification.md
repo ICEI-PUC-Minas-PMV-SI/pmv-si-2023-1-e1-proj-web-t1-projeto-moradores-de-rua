@@ -12,8 +12,8 @@ Ela gostaria de fazer mais por essas pessoas em situação de vulnerabilidade qu
 Seu obstáculo é a falta de informações, como não saber como e onde se cadastrar para ser tornar uma voluntária dessas ONGs.
 
 
-Marcelo tem 38 anos é casado, tem 2 filhos, formado em administração e é gerente em uma empresa de tamanho médio que atua na área de telecomunicações.
-Ele é muito observador, focado e está sempre tentando ajudar as pessoas em sua volta, vai a academia frequentemente e faz caminhadas 3 vezes por semana e tem uma agenda um pouco apertada.
+Marcelo tem 38 anos é casado, formado em administração e é gerente em uma empresa de tamanho médio que atua na área de telecomunicações.
+Ele é muito observador, focado, vai a academia frequentemente e faz caminhadas 3 vezes por semana e tem uma agenda um pouco apertada.
 Ele gostaria de ajudar mais os moradores em situação de rua que encontra pelo caminho quando está indo praticar seus exercícios, ele sempre da algumas moedas mas no fundo ele quer fazer algo mais por essas pessoas, então lembra que tem muitas roupas e cobertores em casa que não usa mais e gostaria de doar também alguns alimentos para uma ONG que ajuda as pessoas em situação de vulnerabilidade.
 A dificuldade que o Marcelo encontra para realizar essas doações é não saber se tem alguma ONG próxima a sua casa pois ele não tem muito tempo livre em sua agenda, outra dificuldade é saber quais alimentos podem ou não ser doados para ajudar essas pessoas.
 
