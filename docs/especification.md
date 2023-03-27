@@ -27,7 +27,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`              |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|-------------------------------------------------|----------------------------------------|
 |MORADOR DE RUA      | Preciso encontrar um abrigo temporário          | Para passar a noite                    |
-|Civil               | Quero ajudar moradores de rua                   | Para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |
+|Civil               | Quero ajudar moradores de rua                   | Para que eu possa me envolver e contribuir de forma efetiva para ajudar essa população vulnerável |preciso coletar informações sobre os indivíduos que ajudamos |
+|Eu sou um funcionário de uma organização que trabalha com moradores de rua |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
