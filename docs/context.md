@@ -1,10 +1,10 @@
 # Introdução
 
-O problema dos moradores de rua é um desafio que enfrentamos como sociedade há décadas. A questão envolve não apenas a falta de moradia adequada, mas também outros fatores como saúde, segurança e dignidade humana. A situação se agrava em grandes centros urbanos, onde a exclusão social é ainda mais evidente. A falta de políticas públicas efetivas e a concentração de renda em camadas sociais mais favorecidas agravam o problema, fazendo com que a população em situação de rua cresça ano após ano.
+A questão dos moradores em situação de rua envolve não apenas a falta de moradia adequada, mas também outros fatores como saúde, segurança e dignidade humana. A situação se agrava em grandes centros urbanos, onde a exclusão social é ainda mais evidente. A falta de políticas públicas efetivas e a concentração de renda em camadas sociais mais favorecidas agravam o problema, fazendo com que a população em situação de rua cresça ano após ano.
 
 Os moradores de rua vivem em condições precárias, expostos a doenças, violência e fome. Muitos são vítimas de preconceito e discriminação, o que dificulta ainda mais a busca por uma vida digna. Diante desse cenário, é urgente a busca por soluções que ataquem o problema de forma integrada e sustentável, envolvendo não apenas políticas públicas, mas também ações de empresas e da sociedade civil.
 
-É importante ressaltar que o problema dos moradores de rua não é exclusivo do Brasil. Em muitos países, a questão é tratada como uma preocupação social e econômica, visto que os custos para a sociedade são altos em termos de saúde pública, segurança e impacto econômico. Portanto, é necessário buscar soluções que considerem a dimensão internacional do problema e que estejam alinhadas com iniciativas globais para a promoção dos direitos humanos e da justiça social.
+É importante ressaltar que a questão dos moradores em situação de rua não é exclusiva do Brasil. Em muitos países, ela é tratada como uma preocupação social e econômica, visto que os custos para a sociedade são altos em termos de saúde pública, segurança e impacto econômico. Portanto, é necessário buscar soluções que considerem a dimensão internacional do problema e estejam alinhadas com iniciativas globais para a promoção dos direitos humanos e a justiça social.
 
 ## Problema
 
