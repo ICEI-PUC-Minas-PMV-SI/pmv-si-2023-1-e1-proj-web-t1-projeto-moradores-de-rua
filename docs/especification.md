@@ -10,14 +10,19 @@ Seu obstáculo é a falta de informações, como não saber como e onde se cadas
 
 
 Marcelo tem 38 anos é casado, formado em administração e é gerente em uma empresa de tamanho médio que atua na área de telecomunicações.
-Ele é observador, focado, vai a academia frequentemente e faz caminhadas algumas vezes por semana e tem uma agenda um pouco apertada.
-Ele quer ajudar essas pessoas em situação de rua, então lembra que tem muitas roupas e cobertores em casa que não usa mais e gostaria de doar também alguns alimentos para uma ONG que ajuda as pessoas em situação de vulnerabilidade.
-A dificuldade que o Marcelo encontra para realizar essas doações é não saber se tem alguma ONG próxima a sua casa pois ele não tem muito tempo livre em sua agenda, outra dificuldade é saber quais alimentos podem ou não ser doados para ajudar essas pessoas.
+Ele é observador, focado, e está sempre trabalhado muito.
+Em seu dia de folga ele quer ajudar as pessoas em situação de rua, então  resolve doar alguns alimentos para uma ONG que ajuda as pessoas em situação de vulnerabilidade.
+A dificuldade que o Marcelo encontra para realizar essas doações é não saber quais tipos de alimentos ele pode doar.
+
+
+Elizabeth tem 28 anos é solteira, formada em design de moda e tem sua própria loja de roupas no centro da cidade.
+Ela encontra várias pessoas em seu dia a dia em situação de vulnerabilidade e lembra que tem muitas roupas que não tem mais ultilidade e fica somente ocupando espaço em seu depósito, então ela resolve desfazer dessas roupas doando para uma ONG da cidade.
+Oque impede ela de realizar essa doação é ela não saber onde e em qual horário essas ONGs se encotram em funcionamento.
 
 
 Aridelson tem 32 anos é casado, tem 2 filhas e tem formação tecnica em eletrôenicos, ele está iniciando sua própria empresa que fornece segurança residencial realizando instalações de câmeras e alarmes.
 Ele quer começar a aumentar seu fluxo de instalações já que trabalha sozinho e para isso precisa de um ajudante para agilizar suas instalações, então ele resolve dar essa oportunidade para uma pessoa em situação de vulnerabilidade.
-O obstaculo do Aridelson é encontrar ONGs onde essas pessoas que estão em situação de vulnerabilidade estejam capacitadas para a vaga que ele está oferecendo.
+O obstaculo do Aridelson é encontrar informações de pessoas que estão em situação de vulnerabilidade que sejam capacitadas para a vaga que ele está oferecendo.
 
 
 Marilia tem 29 anos é casada e é gerente do departamento da prefeitura que tem como objetivo ajudar as pessoas e situação de vulnerabilidade.
