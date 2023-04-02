@@ -49,10 +49,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Disponibilizar o cadastramento dos moradores de rua | ALTA | Assistente social e ONGs |
-|RF-002| Disponibilizar a alteração do cadastro dos moradores de rua | ALTA | Assistente social e ONGs |
-|RF-003| Disponibilizar a exclusão do cadastro dos moradores de rua | ALTA | Assistente social e ONGs |
-|RF-004| Disponibilizar o cadastro dos responsáveis pelo cadastramento dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-001| Gerenciamento do cadastro dos moradores de rua | ALTA | Assistente social e ONGs |
+|RF-002| Gerenciamento do cadastro das ONGs | ALTA | Assistente social e ONGs |
+|RF-003| Gerenciamento do cadastro dos voluntários | ALTA | Assistente social e ONGs |
+|RF-004| Disponibilizar relatório de ONGs por localicades  | ALTA | Assistente social e ONGs |
 |RF-005| Disponibilizar o login dos usuários | ALTA | Assistente social e ONGs  |
 |RF-006| Disponibilizar relatório de moradores de rua por localicades  | ALTA | Assistente social e ONGs |
 |RF-007| Disponibilizar relatório de moradores de rua adultos por localicades  | ALTA | Assistente social e ONGs |
@@ -65,10 +65,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Aplicação deve ser desenvolvida em HTML, CSS e JavaScript |  ALTA | 
-|RNF-003| Aplicação deve apresentar um layout simples e de fácil utilização |  MÉDIA | 
-
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|RNF-003| Aplicação deve apresentar um layout simples e de fácil utilização |  BAIXA | 
+|RNF-004| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail |  MÉDIA | 
+|RNF-005| Cada morador de rua poderá ser cadastrado somente uma vez, não podendo ter duplicidade no cadastro |  MÉDIA | 
 
 
 ## Restrições
@@ -78,7 +77,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| A abrangência do projeto limita-se a Minas Gerais |
-|02| Cada usuário poderá cadastrar no máximo 1 conta por endereço de e-mail |
-|03| Cada morador de rua poderá ser cadastrado somente uma vez, não podendo ter duplicidade no cadastro |
+
 
 
