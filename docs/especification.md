@@ -15,11 +15,6 @@ Em seu dia de folga ele quer ajudar as pessoas em situação de rua, então  res
 A dificuldade que o Marcelo encontra para realizar essas doações é não saber quais tipos de alimentos ele pode doar.
 
 
-Elizabeth tem 28 anos é solteira, formada em design de moda e tem sua própria loja de roupas no centro da cidade.
-Ela encontra várias pessoas em seu dia a dia em situação de vulnerabilidade e lembra que tem muitas roupas que não tem mais ultilidade e fica somente ocupando espaço em seu depósito, então ela resolve desfazer dessas roupas doando para uma ONG da cidade.
-Oque impede ela de realizar essa doação é ela não saber onde e em qual horário essas ONGs se encotram em funcionamento.
-
-
 Aridelson tem 32 anos é casado, tem 2 filhas e tem formação tecnica em eletrôenicos, ele está iniciando sua própria empresa que fornece segurança residencial realizando instalações de câmeras e alarmes.
 Ele quer começar a aumentar seu fluxo de instalações já que trabalha sozinho e para isso precisa de um ajudante para agilizar suas instalações, então ele resolve dar essa oportunidade para uma pessoa em situação de vulnerabilidade.
 O obstaculo do Aridelson é encontrar informações de pessoas que estão em situação de vulnerabilidade que sejam capacitadas para a vaga que ele está oferecendo.
@@ -28,8 +23,6 @@ O obstaculo do Aridelson é encontrar informações de pessoas que estão em sit
 Marilia tem 29 anos é casada e é gerente do departamento da prefeitura que tem como objetivo ajudar as pessoas e situação de vulnerabilidade.
 Ela é uma pessoa analítica e focada em seu trabalho e gostaria de ter um mcontrole melhor das informações sobre ONGs, moradores de rua e doadores, afim de melhorar as tomadas de decisões do departamento.
 A dificuldade de Marilia é obter e manipular essas informações de maneira prática para que a prefeitura possa tomar decisões melhores sobre novas políticas e projetos na cidade que auxiliam as pessoas em situação de rua.
-
-João Pedro tem 50 anos, é casado, funcionário público, e sempre se envolveu em ONGs que tinham o foco em obras sociais ligados aos sem-tetos em BH. Tem facilidade em trabalhar com aplicativos web e se coloca sempre a disposição para contribuir com os projetos questões sociais. 
 
 ## Histórias de Usuários
 
