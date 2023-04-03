@@ -29,6 +29,8 @@ Marilia tem 29 anos é casada e é gerente do departamento da prefeitura que tem
 Ela é uma pessoa analítica e focada em seu trabalho e gostaria de ter um mcontrole melhor das informações sobre ONGs, moradores de rua e doadores, afim de melhorar as tomadas de decisões do departamento.
 A dificuldade de Marilia é obter e manipular essas informações de maneira prática para que a prefeitura possa tomar decisões melhores sobre novas políticas e projetos na cidade que auxiliam as pessoas em situação de rua.
 
+João Pedro tem 50 anos, é casado, funcionário público, e sempre se envolveu em ONGs que tinham o foco em obras sociais ligados aos sem-tetos em BH. Tem facilidade em trabalhar com aplicativos web e se coloca sempre a disposição para contribuir com os projetos questões sociais. 
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
