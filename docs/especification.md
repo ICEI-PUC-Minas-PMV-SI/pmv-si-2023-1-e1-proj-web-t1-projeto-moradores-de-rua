@@ -33,7 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO: Ana Flavia |QUERO/PRECISO: me tornar voluntária  |MOTIVO/VALOR: porque quero fazer mais por essas pessoas em situação de vulnerabilidade|
 |Eu Como: Marcelo|  QUERO/PRECISO: encontrar uma ONG próxima à minha casa| O MOTIVO/VALOR vontade de fazer a diferença na vida dessas pessoas|
 |EU COMO: EU COMO Aridelson |QUERO/PRECISO encontrar uma pessoa em situação de vulnerabilidade |O MOTIVO/VALOR é contribuir para a redução da vulnerabilidade|
-|EU COMO: Marilia |QUERO/PRECISO ter um controle melhor das informações sobre ONGs| contribuir para a melhoria da qualidade de vida delas na cidade.|
+|EU COMO: Marilia |QUERO/PRECISO ter um controle melhor das informações sobre ONGs| O MOTIVO É contribuir para a melhoria da qualidade de vida delas na cidade.|
 
 
 ## Requisitos
