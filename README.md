@@ -16,7 +16,6 @@ O projeto CadSocial tem como objetivo, o cadastro de pessoas em situação de ru
 * Luiza Gabriella Vieira Rezende
 * Vinicius Santos de Oliveira
 * Paulo Henrique Fernandes de Matos
-* Nome completo do aluno 5
 
 ## Orientador
 
