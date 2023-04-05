@@ -8,16 +8,16 @@ Os moradores de rua vivem em condições precárias, expostos a doenças, violê
 
 ## Problema
 
-A população em situação de rua tem crescido cada vez mais em Belo Horizote, chegado a um aumeto de 192% nos ultimos 8 anos de acordo com os dados fornecidos pelo Censo Pop Rua da UFMG. De acordo com essa pesquisa também perceberam que o tempo de situação de rua dessas pessoas estão aumentando cada vez mais, antes essas pessoas permaneciam em situação de rua por 7 anos em média e agora está passando para 11 anos.
+A população em situação de rua tem crescido cada vez mais em Belo Horizote, chegando a um aumeto de 192% nos últimos 8 anos de acordo com os dados fornecidos pelo Censo Pop Rua da UFMG. De acordo com essa pesquisa também perceberam que o tempo de situação de rua dessas pessoas está aumentando cada vez mais. Antes essas pessoas permaneciam em situação de rua por 7 anos em média e agora estão passando para 11 anos.
 
-Alguns meios para ajudar essas pessoas em situação de vulnerabilidade a ter uma melhor condição de vida é realizando doações e se voluntariando para ajudar em ONGs da região e isso as vezes não ocorre por falta de informações. Para resolver isso propomos facilitar o acesso a essas iformações para que assim as pessoas saibam onde doar oque doar, onde e como se volutariar para que assim possamos potencializar os numeros de doações e aumetar o numero de voluntários e consequentemente ter mais moradores saindo das ruas e vivendo uma condição melhor de vida.
+Alguns meios para ajudar essas pessoas em situação de vulnerabilidade a ter uma melhor condição de vida é realizando doações e se voluntariando para ajudar em ONGs da região e isso as vezes não ocorre por falta de informações. Para resolver isso propomos facilitar o acesso a essas informações para que assim as pessoas saibam onde doar e o que doar, onde e como se volutariar para que assim possamos potencializar os números de doações e aumentar o número de voluntários e consequentemente ter mais moradores saindo das ruas e vivendo uma condição melhor de vida.
 
 ## Objetivos
 Prover informações relevantes sobre ONGs em Belo Horizonte que auxiliam as pessoas em situação de rua e garantir que essa informação chegue de forma eficiente aos nossos possíveis usuários para facilitar as doações através do cadastro dos moradores em situação de rua, doadores e das ONGs disponíveis na região.
 
 Auxiliar a prefeitura no controle e planejamento de políticas públicas: O cadastro fornecerá dados valiosos para a prefeitura, permitindo a elaboração de políticas públicas mais efetivas e direcionadas para atender às necessidades dos moradores de rua, como a criação de abrigos temporários, programas de reinserção social e profissional, e melhorias na rede de assistência social. 
 
-O projeto de cadastro de moradores de rua visa estabelecer parcerias com as ONGs e a prefeitura de Minas Gerais, com o intuito de unir esforços para melhorar a qualidade de vida dessa população vulnerável e contribuir para a construção de uma sociedade mais justa e igualitaria. 
+O projeto de cadastro de moradores de rua visa estabelecer parcerias com as ONGs e a prefeitura de Belo Horizonte, com o intuito de unir esforços para melhorar a qualidade de vida dessa população vulnerável e contribuir para a construção de uma sociedade mais justa e igualitaria. 
 
 ## Justificativa
 
