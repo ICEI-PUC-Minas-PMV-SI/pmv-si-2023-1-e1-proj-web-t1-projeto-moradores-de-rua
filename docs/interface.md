@@ -34,6 +34,25 @@ https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-mo
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/4.jpeg?raw=true)
 
+Tela principal do aplicativo
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/5.jpeg?raw=true)
+
+Na tela principal tem as opções do aplicativo
+
+Tela para completar o cadastro dos coluntários
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/6.jpeg?raw=true)
+
+Tela para cadastrar as ONGs
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/7.jpeg?raw=true)
+
+
+
 ### Exemplo
 
 A tela Inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade.
