@@ -37,7 +37,6 @@ https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-mo
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/5.jpeg?raw=true)
 
-### Na tela principal tem as opções do aplicativo
 
 ### Tela para completar o cadastro dos coluntários
 
