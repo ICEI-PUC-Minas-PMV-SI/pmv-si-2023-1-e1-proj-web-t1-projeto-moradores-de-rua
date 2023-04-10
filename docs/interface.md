@@ -17,7 +17,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-Tela inicial com o login/cadastro do usuário
+###Tela inicial com o login/cadastro do usuário
 
 
 ![teste](
@@ -32,34 +32,34 @@ https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-mo
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/4.jpeg?raw=true)
 
-Tela principal do aplicativo
+###Tela principal do aplicativo
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/5.jpeg?raw=true)
 
-Na tela principal tem as opções do aplicativo
+###Na tela principal tem as opções do aplicativo
 
-Tela para completar o cadastro dos coluntários
+###Tela para completar o cadastro dos coluntários
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/6.jpeg?raw=true)
 
-Tela para cadastrar as ONGs
+###Tela para cadastrar as ONGs
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/7.jpeg?raw=true)
 
-Tela para cadastrar os moradores de rua
+###Tela para cadastrar os moradores de rua
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/8.jpeg?raw=true)
 
-Tela de acesso aos relatórios
+###Tela de acesso aos relatórios
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/9.jpeg?raw=true)
 
-Acesso as opções do menu lateral, clicando no menu superior
+###Acesso as opções do menu lateral, clicando no menu superior
 
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/10.jpeg?raw=true)
