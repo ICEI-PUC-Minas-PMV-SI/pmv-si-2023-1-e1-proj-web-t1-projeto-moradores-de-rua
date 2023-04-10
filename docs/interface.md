@@ -1,9 +1,7 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage, Cadastro de ONGS, Cadastro de moradores de rua, Atualização cadastral do usuário, Tela de acesso aos relatórios. O conteúdo foi organizado de modo a incentivar, facilitar o uso do aplicativo. Em todas as páginas acessadas pelo usuário, há botões que redirecionam o usuário para a homepage ou mesmo em algumas páginas, a possibilidade de ser redirecionado para qualquer outra página.
 
 ## User Flow
 
