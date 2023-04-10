@@ -51,6 +51,20 @@ Tela para cadastrar as ONGs
 ![teste](
 https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/7.jpeg?raw=true)
 
+Tela para cadastrar os moradores de rua
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/8.jpeg?raw=true)
+
+Tela de acesso aos relatórios
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/9.jpeg?raw=true)
+
+Acesso as opções do menu lateral, clicando no menu superior
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/10.jpeg?raw=true)
 
 
 ### Exemplo
