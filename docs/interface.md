@@ -5,7 +5,7 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![UserFlow Grupo 1](img/docs/CadSOCIAL%20user%20flow.pdf)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
