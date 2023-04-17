@@ -1,40 +1,39 @@
 
 # Projeto de Interface
 
-O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage, Cadastro de ONGS, Cadastro de moradores de rua, Atualização cadastral do usuário, Tela de acesso aos relatórios. O conteúdo foi organizado de modo a incentivar, facilitar o uso do aplicativo. Em todas as páginas acessadas pelo usuário, há botões que redirecionam o usuário para a homepage ou mesmo em algumas páginas, a possibilidade de ser redirecionado para qualquer outra página.
+O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage, Cadastro de ONGs, Cadastro de moradores de rua, Atualização cadastral do usuário, Tela de acesso aos relatórios. O conteúdo foi organizado de modo a incentivar e facilitar o uso do aplicativo. Em todas as páginas acessadas pelo usuário, há botões que redirecionam o usuário para a homepage ou, em algumas páginas, a possibilidade de ser redirecionado para qualquer outra página.
 
-1- Home: A página vai ter fuções para o usuário, realizar login se ja cadatrado no app, realizar um novo cadastro caso ainda não tenha.
+1- Home: A página vai ter funções para o usuário, realizar login se já cadastrado no aplicativo, realizar um novo cadastro caso ainda não tenha.
 
-2- Entrar: Aqui o usuário vai fornecer os dados para realização do login no app, utilizado email e senha ou entar usando outras contas como conta do google, facebook ou e-mail.
+2- Entrar: Aqui o usuário vai fornecer os dados para realização do login no aplicativo, utilizado email e senha ou entrar usando outras contas como conta do Google, Facebook ou e-mail.
 
+3- Nova conta: Nessa página o usuário vai fornecer dados pessoais para a realização do seu cadastro, como nome, e-mail, data de nascimento, cidade, criação de senha e escolher qual tipo de usuário ele se identifica no aplicativo.
 
-3- Nova conta: Nessa página o usuário vai fornecer dados pessoais para a realização do seu cadastro, como nome, e-mail, data de nascimento, cidade, criação de senha e escolher qual tipo de usuário ele qse identifica no app.
+4- Menu principal: Nessa página, primeiro o usuário novo vai ter acesso a alguns passo a passos para auxiliar sua jornada no aplicativo e completar seu cadastro adicionando foto de perfil, endereço mais detalhado e celular. Logo depois, ele terá acesso às funções principais do aplicativo.
 
-4- Menu pricipal: Nessa pagina primeiro o usuário novo vai ter acesso a alguns passo a passos para auxiliar sua jornada o app e completar seu cadastro adicionando foto de perfil, endereço mais detalhado e celular.  logo depois ele terá acesso as fuções principais do app.
+-> Cadastro de ONG: O usuário poderá realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
 
-    -> Cadatro de ONG: O usuário podera realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
+-> Relatórios: Nessa página, você pode pesquisar informações sobre todos os usuários que já se cadastraram no aplicativo, ou seja, informações sobre ONGs, moradores em situação de rua e voluntários.
 
-    -> Relatórios: Nessa página você pode pesquisar informações sobre todos os usuários que já se cadastraram no app, ou seja iformações sobre ONGs, moradores em situação de rua, voluntários. 
+5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação no aplicativo.
 
-5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação o app.
+ -> Perfil: Exibe informações sobre o próprio usuário.
 
-    -> Perfil: Exibe informações sobre o próprio usuário.
-  
-    -> Quem somos: Exibe informações sobre o próposito do projeto, como missão, visão e valor.
-    
-    -> Completar cadastro: Caso o usuário pule essa etapa no início ele podera voltar a completar por meio dessa função.
-  
-    -> Relatórios: Atalho para acessar a função relatórios.
-  
-    -> Cadastrar Moradores em situação de rua: Realizar o cadastro de morades de rua.
-  
-    -> Mensagens: Bate-papo do app.
-  
-    -> Notificações: Exibe alertas de interções realizadas com o perfil do   usuário.
-  
-    -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o app.
-  
-    -> Pesquisar: Permite o usuário realizar buscas o app.
+ -> Quem somos: Exibe informações sobre o propósito do projeto, como missão, visão e valores.
+
+ -> Completar cadastro: Caso o usuário tenha pulado essa etapa no início, poderá voltar a completá-la por meio dessa função.
+
+ -> Relatórios: Atalho para acessar a função de relatórios.
+
+ -> Cadastrar moradores em situação de rua: Permite o usuário realizar o cadastro de moradores de rua.
+
+ -> Mensagens: Bate-papo do aplicativo.
+
+ -> Notificações: Exibe alertas de interações realizadas com o perfil do usuário.
+
+ -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o aplicativo.
+
+ -> Pesquisar: Permite o usuário realizar buscas no aplicativo.
 
 
 
