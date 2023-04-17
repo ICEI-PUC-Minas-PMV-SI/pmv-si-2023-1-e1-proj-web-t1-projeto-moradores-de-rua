@@ -12,19 +12,29 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 4- Menu principal: Nessa página, primeiro o usuário novo vai ter acesso a alguns passo a passos para auxiliar sua jornada no aplicativo e completar seu cadastro adicionando foto de perfil, endereço mais detalhado e celular. Logo depois, ele terá acesso às funções principais do aplicativo.
 
 -> Cadastro de ONG: O usuário poderá realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
+
 -> Relatórios: Nessa página, você pode pesquisar informações sobre todos os usuários que já se cadastraram no aplicativo, ou seja, informações sobre ONGs, moradores em situação de rua e voluntários.
 
 5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação no aplicativo.
 
 -> Perfil: Exibe informações sobre o próprio usuário.
+
 -> Quem somos: Exibe informações sobre o propósito do projeto, como missão, visão e valores.
+
 -> Completar cadastro: Caso o usuário tenha pulado essa etapa no início, poderá voltar a completá-la por meio dessa função.
+
 -> Relatórios: Atalho para acessar a função de relatórios.
+
 -> Cadastrar moradores em situação de rua: Permite o usuário realizar o cadastro de moradores de rua.
+
 -> Mensagens: Bate-papo do aplicativo.
+
 -> Notificações: Exibe alertas de interações realizadas com o perfil do usuário.
+
 -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o aplicativo.
+
 -> Pesquisar: Permite o usuário realizar buscas no aplicativo.
+
 
 
 
