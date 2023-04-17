@@ -12,29 +12,29 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 
 4- Menu pricipal: Nessa pagina primeiro o usuário novo vai ter acesso a alguns passo a passos para auxiliar sua jornada o app e completar seu cadastro adicionando foto de perfil, endereço mais detalhado e celular.  logo depois ele terá acesso as fuções principais do app.
 
-  -> Cadatro de ONG: O usuário podera realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
+    -> Cadatro de ONG: O usuário podera realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
 
-  -> Relatórios: Nessa página você pode pesquisar informações sobre todos os usuários que já se cadastraram no app, ou seja iformações sobre ONGs, moradores em situação de rua, voluntários. 
+    -> Relatórios: Nessa página você pode pesquisar informações sobre todos os usuários que já se cadastraram no app, ou seja iformações sobre ONGs, moradores em situação de rua, voluntários. 
 
 5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação o app.
 
-  -> Perfil: Exibe informações sobre o próprio usuário.
+    -> Perfil: Exibe informações sobre o próprio usuário.
   
-  -> Quem somos: Exibe informações sobre o próposito do projeto, como missão, visão e valor.
+    -> Quem somos: Exibe informações sobre o próposito do projeto, como missão, visão e valor.
+    
+    -> Completar cadastro: Caso o usuário pule essa etapa no início ele podera voltar a completar por meio dessa função.
   
-  -> Completar cadastro: Caso o usuário pule essa etapa no início ele podera voltar a completar por meio dessa função.
+    -> Relatórios: Atalho para acessar a função relatórios.
   
-  -> Relatórios: Atalho para acessar a função relatórios.
+    -> Cadastrar Moradores em situação de rua: Realizar o cadastro de morades de rua.
   
-  -> Cadastrar Moradores em situação de rua: Realizar o cadastro de morades de rua.
+    -> Mensagens: Bate-papo do app.
   
-  -> Mensagens: Bate-papo do app.
+    -> Notificações: Exibe alertas de interções realizadas com o perfil do   usuário.
   
-  -> Notificações: Exibe alertas de interções realizadas com o perfil do   usuário.
+    -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o app.
   
-  -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o app.
-  
-  -> Pesquisar: Permite o usuário realizar buscas o app.
+    -> Pesquisar: Permite o usuário realizar buscas o app.
 
 
 
