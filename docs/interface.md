@@ -19,13 +19,21 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação o app.
 
   -> Perfil: Exibe informações sobre o próprio usuário.
+  
   -> Quem somos: Exibe informações sobre o próposito do projeto, como missão, visão e valor.
+  
   -> Completar cadastro: Caso o usuário pule essa etapa no início ele podera voltar a completar por meio dessa função.
+  
   -> Relatórios: Atalho para acessar a função relatórios.
+  
   -> Cadastrar Moradores em situação de rua: Realizar o cadastro de morades de rua.
+  
   -> Mensagens: Bate-papo do app.
-  -> Notificações: Exibe alertas de interções realizadas com o perfil do   usuário
+  
+  -> Notificações: Exibe alertas de interções realizadas com o perfil do   usuário.
+  
   -> Configurações: Possibilita o usuário realizar alterações de dados ou personalizar o app.
+  
   -> Pesquisar: Permite o usuário realizar buscas o app.
 
 
@@ -34,7 +42,7 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 
 
 
-## User Flow Grupo 1 - Projeto moradores de rua
+## User Flow 
 
 ![UserFlow Grupo 1:](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/MarodoresRua.jpg?raw=true)
 
