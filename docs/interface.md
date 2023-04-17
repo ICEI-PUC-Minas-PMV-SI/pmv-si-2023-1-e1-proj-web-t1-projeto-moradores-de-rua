@@ -14,8 +14,6 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 
   -> Cadatro de ONG: O usuário podera realizar o cadastro de sua ONG fornecendo dados sobre a mesma.
 
-  -> Cadastro de Morador em situação de rua: Aqui o usuário pode cadastrar a pessoa que está em situação de rua fornecendo dados sobre o mesmo, como nome, idade, se possui familia e competências.
-
   -> Relatórios: Nessa página você pode pesquisar informações sobre todos os usuários que já se cadastraram no app, ou seja iformações sobre ONGs, moradores em situação de rua, voluntários. 
 
 5- Menu lateral: Aqui o usuário terá acessos e alguns atalhos para facilitar a navegação o app.
