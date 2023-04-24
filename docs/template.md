@@ -11,12 +11,42 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #AB8A3E; }
+.My-Color-Theme-2-hex { color: #787367; }
+.My-Color-Theme-3-hex { color: #DE9C66; }
+.My-Color-Theme-4-hex { color: #A1E3DA; }
+.My-Color-Theme-5-hex { color: #3EAB7D; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(171, 138, 62, 1); }
+.My-Color-Theme-2-rgba { color: rgba(120, 115, 103, 1); }
+.My-Color-Theme-3-rgba { color: rgba(222, 156, 102, 1); }
+.My-Color-Theme-4-rgba { color: rgba(161, 227, 218, 1); }
+.My-Color-Theme-5-rgba { color: rgba(62, 171, 125, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(41, 46, 45, 1); }
+.My-Color-Theme-2-hsla { color: hsla(42, 7, 43, 1); }
+.My-Color-Theme-3-hsla { color: hsla(27, 64, 63, 1); }
+.My-Color-Theme-4-hsla { color: hsla(171, 54, 76, 1); }
+.My-Color-Theme-5-hsla { color: hsla(154, 46, 45, 1); }
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Título de página
+ITC Motter Corpus Conde
+Gill Sans Display
+
+Título de Seção
+Gill Sans Diplay
+
+Rótulos de componentes
+Gill Sans
+
+Corpo de Texto
+Gill Sans Condesed
 
 
 ## Iconografia
