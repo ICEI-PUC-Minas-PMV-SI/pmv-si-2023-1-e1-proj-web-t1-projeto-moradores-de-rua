@@ -49,37 +49,32 @@ O projeto de interface está organizado em 10 páginas: Cadastro/Login, Homepage
 
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/paginaInicial.jpeg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/1.jpg)
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/QuemSomos.jpeg)
-
-
-### Tela para completar o cadastro dos coluntários
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/2.jpg)
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/CadastroVoluntario.jpeg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/3.jpg)
+
+
+### Tela principal que dá acesso aos outros cadastros e ao relatório
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/4.jpg)
 
 ### Tela para cadastrar as ONGs
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/cadastroOng.jpeg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/6.jpg)
 
+### Tela para cadastrar os moradores de rua
+
+![teste](
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/5.jpg)
 
 ### Tela de acesso aos relatórios
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/RelatorioVoluntariosPorCidade.jpeg)
-
-![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/RelatorioOngsPorcidades.jpeg)
-
-![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/RelatorioMoradosDeRuaPorRegiao.jpeg)
-
-![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/RelatorioMoradoresDeRua.jpeg)
-
-![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/OngsEmMG.jpeg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/7.jpg)
 
