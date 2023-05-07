@@ -50,32 +50,32 @@ https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-mo
 
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/1.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/TelaInicial.jpg)
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/2.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/Login.jpg)
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/3.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/CadUsu.jpg)
 
 
 ### Tela principal que dá acesso aos outros cadastros e ao relatório
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/4.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/MenuPrincipal.jpg)
 
 ### Tela para cadastrar as ONGs
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/6.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/CadOngs.jpg)
 
 ### Tela para cadastrar os moradores de rua
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/5.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/CadMoradorRua.jpg)
 
 ### Tela de acesso aos relatórios
 
 ![teste](
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/7.jpg)
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t1-projeto-moradores-de-rua/blob/main/docs/TelaRelatorios.jpg)
 
