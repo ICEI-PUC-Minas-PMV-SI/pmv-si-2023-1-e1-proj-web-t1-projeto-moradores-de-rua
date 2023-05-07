@@ -10,43 +10,25 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 
 ## Cores
-
-/* Color Theme Swatches in Hex */
-.My-Color-Theme-1-hex { color: #AB8A3E; }
-.My-Color-Theme-2-hex { color: #787367; }
-.My-Color-Theme-3-hex { color: #DE9C66; }
-.My-Color-Theme-4-hex { color: #A1E3DA; }
-.My-Color-Theme-5-hex { color: #3EAB7D; }
-
-/* Color Theme Swatches in RGBA */
-.My-Color-Theme-1-rgba { color: rgba(171, 138, 62, 1); }
-.My-Color-Theme-2-rgba { color: rgba(120, 115, 103, 1); }
-.My-Color-Theme-3-rgba { color: rgba(222, 156, 102, 1); }
-.My-Color-Theme-4-rgba { color: rgba(161, 227, 218, 1); }
-.My-Color-Theme-5-rgba { color: rgba(62, 171, 125, 1); }
-
-/* Color Theme Swatches in HSLA */
-.My-Color-Theme-1-hsla { color: hsla(41, 46, 45, 1); }
-.My-Color-Theme-2-hsla { color: hsla(42, 7, 43, 1); }
-.My-Color-Theme-3-hsla { color: hsla(27, 64, 63, 1); }
-.My-Color-Theme-4-hsla { color: hsla(171, 54, 76, 1); }
-.My-Color-Theme-5-hsla { color: hsla(154, 46, 45, 1); }
-
+Principais:
+#013483
+#EFF2F7
+#EAEAEA
+#303030
 
 ## Tipografia
 
 Título de página
-ITC Motter Corpus Conde
-Gill Sans Display
+Arial black
 
 Título de Seção
-Gill Sans Diplay
+Arial black
 
 Rótulos de componentes
-Gill Sans
+Arial black
 
 Corpo de Texto
-Gill Sans Condesed
+Arial black
 
 
 ## Iconografia
