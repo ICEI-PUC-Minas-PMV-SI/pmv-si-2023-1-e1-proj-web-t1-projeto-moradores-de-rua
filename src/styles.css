@@ -18,3 +18,124 @@
     font-size: 2.5em;
     color: #333;
 }
+
+
+
+/* Menun Principal */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    color: black;
+    text-align: center;
+}
+
+.img-fluid {
+    object-fit: cover;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+    font-size: 3.0em;
+    color: #033E8C;
+}
+
+.barra-pesquisa {
+    width: 600px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+
+.iconecadmorador {
+    background-color: #033E8C;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+  }
+
+.cadmorador {
+    background-color: #EAEAEA;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    cursor: pointer;
+  }
+
+  .iconecadONG {
+    background-color: #033E8C;
+    border: none;
+    color: white;
+    padding: 15px 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 0px;
+    cursor: pointer;
+  }
+
+  .cadONG {
+    background-color: #EAEAEA;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 67px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 0px;
+    cursor: pointer;
+  }
+
+  .iconerelatorio {
+    background-color: #033E8C;
+    border: none;
+    color: white;
+    padding: 15px 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 0px;
+    cursor: pointer;
+  }
+
+
+  .relatorio {
+    background-color: #EAEAEA;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 88px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px;
+    cursor: pointer;
+  }
+
+  .botoes-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+  }
