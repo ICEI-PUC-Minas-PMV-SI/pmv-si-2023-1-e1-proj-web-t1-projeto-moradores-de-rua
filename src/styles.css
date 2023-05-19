@@ -19,6 +19,45 @@
     color: #333;
 }
 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login {
+  margin-top: 20px; 
+  text-align: left;
+  margin-bottom: 50px; 
+  font-size: 30px;
+}
+
+.form-login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-field {
+  font-size: 1.50rem;
+  height: 38px;
+  margin-bottom: 10px;  
+}
+
+
+.btn-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.input-field {
+  padding: 15px; 
+}
+
+.social-icon {
+  width: 25px; 
+}
 
 
 /* Menun Principal */
