@@ -12,7 +12,7 @@ O projeto CadSocial tem como objetivo, o cadastro de pessoas em situação de ru
 
 ## Integrantes
 
-* Stephanie Gadoni Sila 
+* Stephanie Gadoni Silva 
 * Luiza Gabriella Vieira Rezende
 * Vinicius Santos de Oliveira
 * Paulo Henrique Fernandes de Matos
