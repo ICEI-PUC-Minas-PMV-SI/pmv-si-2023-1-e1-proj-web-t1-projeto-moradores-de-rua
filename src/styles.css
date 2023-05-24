@@ -61,9 +61,9 @@ body {
 
 
 body {
-  background-color: #336699; /* Um tom de azul mediano */
-  font-family: Arial, sans-serif; /* Estilo de fonte genérico */
-  color: #FFFFFF; /* Cor do texto branco para contraste */
+  background-color: #336699; 
+  font-family: Arial, sans-serif; 
+  color: #FFFFFF; 
 }
 
 .main-container {
@@ -76,8 +76,8 @@ body {
 }
 
 .main-header {
-  font-size: 3em; /* Faz o cabeçalho maior */
-  margin-bottom: 20px; /* Adiciona algum espaço abaixo do cabeçalho */
+  font-size: 3em; 
+  margin-bottom: 20px; 
 }
 
 .social-help-img {
