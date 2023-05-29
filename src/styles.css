@@ -60,6 +60,40 @@ body {
 }
 
 
+body {
+  background-color: #336699; 
+  font-family: Arial, sans-serif; 
+  color: #FFFFFF; 
+}
+
+.main-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.main-header {
+  font-size: 3em; 
+  margin-bottom: 20px; 
+}
+
+.social-help-img {
+  width: 300px;
+  height: 300px;
+  
+}
+
+.user-action-text {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-top: 20px;
+}
+
+
 /* Menun Principal */
 
 
