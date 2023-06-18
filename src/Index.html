@@ -8,9 +8,19 @@
         <img src="https://raizesds.com.br/wp-content/uploads/2018/11/projetosocial-imagem.png" alt="Imagem de ajuda social" class="social-help-img social-help-img-large">
         <h1 class="main-header">Cad Social</h1>
         <div class="user-action-buttons">
-            <button class="user-action-button">Login</button>
-            <button class="user-action-button">Crie sua conta</button>
+            <button class="user-action-button" id="login-button">Login</button>
+            <button class="user-action-button" id="signup-button">Crie sua conta</button>
         </div>
     </div>
+
+    <script>
+        document.getElementById("login-button").addEventListener("click", function() {
+            window.location.href = "TelaLogin.html";
+        });
+
+        document.getElementById("signup-button").addEventListener("click", function() {
+            window.location.href = "CadastroUsuario.html";
+        });
+    </script>
 </body>
 </html>
