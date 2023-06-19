@@ -1,4 +1,4 @@
-// tela login stephanie 
+// tela login 
 
 let user = {
     login: "teste@example.com",
