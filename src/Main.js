@@ -38,3 +38,28 @@ form.addEventListener('submit', function(event) {
     }
 });
 
+
+
+
+
+// Menu principal Vinicius
+
+function pesquisar() {
+    var termo = document.getElementById("barra-pesquisa").value;
+
+    alert("Você pesquisou por: " + termo);
+
+    return false;
+    }
+
+function irpara_cadmorador() {
+    window.location.href = "CadastroMorador.html"
+    }
+
+function irpara_cadONG() {
+    window.location.href = "CadastroONG.html"
+    }
+
+function irpara_relatorios() {
+    window.location.href = "Relatorios.html"
+    }      
