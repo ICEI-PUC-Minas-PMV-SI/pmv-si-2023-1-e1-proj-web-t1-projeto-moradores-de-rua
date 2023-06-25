@@ -1,45 +1,37 @@
-// tela login 
+// tela login stephanie
 
-let user = {
-    login: "teste@example.com",
-    senha: "1234"
-};
-
-
-let userJSON = JSON.stringify(user);
-
-localStorage.setItem("user", userJSON);
-
-function checkLogin(login, senha) {
-    let userJSON = localStorage.getItem("user");
-
-    let user = JSON.parse(userJSON);
-
-    if(user.login === login && user.senha === senha) {
-        return true;
-    } else {
-        return false;
-    }
-}
-
-var form = document.getElementById('login-form');
-
-form.addEventListener('submit', function(event) {
+document.getElementById('continuar-button').addEventListener('click', function (event) {
     event.preventDefault();
-
-    var login = document.getElementById('email').value;
-    var senha = document.getElementById('password').value;
-
-    if(checkLogin(login, senha)) {
-        console.log("Login efetuado com sucesso!");
-        window.open("menuPrincipal.html", "_self"); 
-    } else {
-        console.log("Login ou senha incorretos!");
-    }
-});
-
-
-
+  
+    const email = document.getElementById('email').value;
+    const password = document.getElementById('password').value;
+  
+    const data = {
+      email: email,
+      password: password,
+    };
+  
+    fetch('http://localhost:3000/login', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        if (data.success) {
+          window.location.href = 'MenuPrincipal.html';
+        } else {
+          console.log(data.message);
+        }
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  });
+  
+  
 
 
 // Menu principal Vinicius
