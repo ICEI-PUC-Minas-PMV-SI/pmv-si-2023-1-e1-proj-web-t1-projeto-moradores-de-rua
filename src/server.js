@@ -8,12 +8,10 @@ const middlewares = jsonServer.defaults();
 server.db = router.db;
 
 const validateUser = (email, password) => {
-    const users = server.db.get('users').value();
-    const user = users.find((user) => user.email === email && user.password === password);
-    return user !== undefined ? user : null;
-  };
-  
-
+  const users = server.db.get('users').value();
+  const user = users.find((user) => user.email === email && user.password === password);
+  return user !== undefined ? user : null;
+};
 
 server.use(
   auth.rewriter({
@@ -22,7 +20,9 @@ server.use(
 );
 
 server.use(middlewares);
+server.use(auth);
 server.use(router);
+
 server.listen(3000, () => {
   console.log('JSON Server is running');
 });

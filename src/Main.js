@@ -1,4 +1,6 @@
-document.getElementById('continuar-button').addEventListener('click', function (event) {
+// tela login stephanie
+
+document.getElementById('login-form').addEventListener('submit', function (event) {
   event.preventDefault();
 
   const email = document.getElementById('email').value;
@@ -9,32 +11,26 @@ document.getElementById('continuar-button').addEventListener('click', function (
     password: password,
   };
 
-  fetch('http://localhost:3000/validateUser', {
+  fetch('/login', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify(data),
   })
-    .then((response) => {
-      if (response.ok) {
-        return response.json();
-      } else {
-        throw new Error('Erro ao fazer login');
-      }
-    })
+    .then((response) => response.json())
     .then((data) => {
-      if (data) {
+      if (data.success) {
         window.location.href = 'MenuPrincipal.html';
       } else {
-        console.log('Email ou senha incorretos');
+        console.log(data.message);
       }
     })
-    
     .catch((error) => {
       console.log(error);
     });
 });
+
 
 
 // tela vinicius
