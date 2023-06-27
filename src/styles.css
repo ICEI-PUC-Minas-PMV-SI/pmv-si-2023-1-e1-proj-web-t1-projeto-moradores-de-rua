@@ -132,6 +132,11 @@ body {
 
 /* Menun Principal */
 
+.body-menu{
+  background-color: #ffffff; 
+  font-family: Arial, sans-serif; 
+  color: #FFFFFF; 
+}
 
 .footermenu {
   position: fixed;
@@ -156,7 +161,7 @@ body {
 
 
 
-.barra-pesquisa {
+/*.barra-pesquisa {
   display: flex;
   justify-content: center;
   margin-top: 150px;
@@ -170,7 +175,7 @@ body {
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
   width: 350px;
   outline: none;
-}
+}*/
 
 
 
@@ -256,7 +261,6 @@ body {
 }
 
 
-
 .botao-container {
   display: flex;
   flex-direction: column;
@@ -264,6 +268,9 @@ body {
   align-items: center;
   height: 75vh;
 }
+/* Menun Principal End */
+
+
  
 .login-page body {
   font-family: Arial, sans-serif;
