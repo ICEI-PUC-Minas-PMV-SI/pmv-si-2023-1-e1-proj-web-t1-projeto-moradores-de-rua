@@ -150,11 +150,11 @@ body {
 
 
 .title-menu {
-  text-align: center;
+  text-align: top;
   font-family: 'Arial Black', sans-serif;
   font-size: 3.0em;
   color: #033E8C;
-  position: relative;
+  position: top;
   top: 70px;
   left: 20px;
 }
@@ -262,6 +262,7 @@ body {
 
 
 .botao-container {
+  position: fixed ;
   display: flex;
   flex-direction: column;
   justify-content: center;
