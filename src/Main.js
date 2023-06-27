@@ -6,24 +6,18 @@ document.getElementById('login-form').addEventListener('submit', function (event
   const email = document.getElementById('email').value;
   const password = document.getElementById('password').value;
 
-  const data = {
+  const usuario = {
     email: email,
     password: password,
   };
 
-  fetch('/login', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
+  fetch('http://localhost:3000/users')  
     .then((response) => response.json())
-    .then((data) => {
-      if (data.success) {
+    .then((usuario) => {
+      if (email == usuario[0].email) {
         window.location.href = 'MenuPrincipal.html';
       } else {
-        console.log(data.message);
+        console.log(usuario[0].email);
       }
     })
     .catch((error) => {
