@@ -21,6 +21,18 @@ server.use(
 
 server.use(middlewares);
 server.use(auth);
+
+server.post('/login', (req, res) => {
+  const { email, password } = req.body;
+  const user = validateUser(email, password);
+
+  if (user) {
+    res.status(200).json({ success: true });
+  } else {
+    res.status(401).json({ success: false, message: 'Email or password is incorrect' });
+  }
+});
+
 server.use(router);
 
 server.listen(3000, () => {
