@@ -29,16 +29,8 @@ document.getElementById('login-form').addEventListener('submit', function (event
 
 // tela vinicius
 
-/**function pesquisar() {
-    var termo = document.getElementById("barra-pesquisa").value;
-
-    alert("Você pesquisou por: " + termo);
-
-    return false;
-    }*/
-
 function irpara_cadmorador() {
-    window.location.href = ""
+    window.location.href = "CadastroMorador.html"
     }
 
 function irpara_cadONG() {

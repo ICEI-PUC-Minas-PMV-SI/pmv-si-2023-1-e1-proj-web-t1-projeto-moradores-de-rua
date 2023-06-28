@@ -160,25 +160,6 @@ body {
 }
 
 
-
-/*.barra-pesquisa {
-  display: flex;
-  justify-content: center;
-  margin-top: 150px;
-}
-
-.barra-pesquisa input[type="text"] {
-  padding: 10px;
-  border: 2px solid #ddd;
-  border-radius: 60px;
-  font-size: 16px;
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
-  width: 350px;
-  outline: none;
-}*/
-
-
-
 .iconecadmorador {
   background-color: #033E8C;
   border: none;
@@ -269,7 +250,8 @@ body {
   align-items: center;
   height: 75vh;
 }
-/* Menun Principal End */
+
+ /*Menun Principal End */
 
 
  
