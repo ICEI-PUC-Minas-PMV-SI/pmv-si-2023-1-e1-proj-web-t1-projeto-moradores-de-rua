@@ -38,7 +38,7 @@ document.getElementById('login-form').addEventListener('submit', function (event
     }*/
 
 function irpara_cadmorador() {
-    window.location.href = "CadastroMorador.html"
+    window.location.href = ""
     }
 
 function irpara_cadONG() {
