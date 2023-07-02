@@ -41,7 +41,7 @@ Foram reportados os seguintes bugs:
 
 - (RTF-006) Está incompleto o JSON server e os dados para cadastro não conseguem ser salvos. 
 
-- (RTF-RTF-007) Está incompleto o JSON server e os dados para cadastro não conseguem ser salvos. 
+- (RTF-007) Está incompleto o JSON server e os dados para cadastro não conseguem ser salvos. 
 
 Os bugs ainda não foram resolvidos até a escrita deste documento.
 
