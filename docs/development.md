@@ -21,7 +21,7 @@ Foi desenvolvido um menu horizontal que contém botões cadastro de morador de r
 ### Requisitos
 
 - RF-001/RF-002 - Disponibilizar página em que o usuário poderá fazer os cadastros
-- RF-003 - Disponibilizar página em que o usuário poderá ver os relatórios
+- RF-003 - Disponibilizar página em que o usuário poderá ver os relatórios para tomada de decisão.
   
 
 
