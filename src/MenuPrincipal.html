@@ -22,7 +22,7 @@
                   <i class="fas fa-user"></i>
                 </button>
 
-                <button class="cadmorador"> 
+                <button class="cadmorador" id="cadmorador">
                   Cadastrar morador de rua
                 </button>
             </div>
@@ -32,7 +32,7 @@
                 <i class="fa fa-handshake"></i>
               </button>
 
-              <button class="cadONG">
+              <button class="cadONG" id="cadONG">
                   Cadastrar ONGs
               </button>
             </div>
@@ -42,8 +42,8 @@
                   <i class="fa fa-newspaper"></i>
                 </button>
 
-                <button class="relatorio">
-                  Relatório.
+                <button class="relatorio" id="relatorio">
+                  Relatório
                 </button>
             </div>
         </div>
@@ -53,9 +53,15 @@
       <p>Projeto CadSocial - Puc Minas - Copyright 2023</p>
     </div>
 
-    <script src="/src/Main.js"
-        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
-        crossorigin="anonymous">
+    <script>
+        document.getElementById("cadmorador").addEventListener("click", function() {
+            window.location.href = "CadastroMorador.html";
+        });
+
+        document.getElementById("relatorio").addEventListener("click", function() {
+            window.location.href = "Relatorios.html";
+          });
+
     </script>
 </body>
 
